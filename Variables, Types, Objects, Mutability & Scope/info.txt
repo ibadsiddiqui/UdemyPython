@@ -3,4 +3,27 @@ What is scope?
 Variables?
 what defines the scope? LEGB scope?
 Variables spaces or namespaces?
-why some have single, double underscores
+why some have single, double underscores.
+
+scope:
+    defines the boundary around the variables.
+    A block where a variables lives but it can be allowed
+    to live in other places as well.
+    L = Local Variables within a function
+    E = Enclosing, variables need nesting of some block (loop, class etc)
+    G = Global Variables, accessible anywhere need specification
+    B = Built-in, comes with Python / Anaconda.
+
+namespace:
+    list pof variables that we have access to. Giant List.
+    A way to see a variables that we have in our scope.
+    A name can map to function or objects or module (pre-written code).
+
+public, protected, private classes:
+    area of somethings. public variables are accessible by different class.
+    private variables are only accessible by its own class.
+    protected variables can be accessed by those who inherit its class.
+
+Double underscores:
+    dunder
+    defines a namespace
