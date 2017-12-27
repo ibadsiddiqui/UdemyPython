@@ -1,0 +1,6 @@
+discussion is on scope, namespace public, private and protected Vars.
+What is scope?
+Variables?
+what defines the scope? LEGB scope?
+Variables spaces or namespaces?
+why some have single, double underscores
